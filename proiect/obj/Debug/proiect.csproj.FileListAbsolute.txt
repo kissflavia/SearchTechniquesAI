@@ -1,0 +1,16 @@
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\bin\Debug\proiect.exe
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\bin\Debug\proiect.pdb
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.csprojAssemblyReference.cache
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Form1.resources
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Form2.resources
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Properties.Resources.resources
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.csproj.GenerateResource.cache
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.csproj.CoreCompileInputs.cache
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.exe
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.pdb
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Form4.resources
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Form3.resources
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Form5.resources
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Form6.resources
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Form7.resources
+C:\Users\Flavia\Desktop\IA\PROIECT\proiect\proiect\obj\Debug\proiect.Form8.resources
